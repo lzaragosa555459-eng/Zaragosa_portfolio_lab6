@@ -3,10 +3,10 @@
 ## Hello Guys, this is my project portfolio. 
 
 ### __What to expect__
-*Home
-*About me
-*Certificates
-*Services
-*Projects
-*Contact
+* Home
+* About me
+* Certificates
+* Services
+* Projects
+* Contact
 
