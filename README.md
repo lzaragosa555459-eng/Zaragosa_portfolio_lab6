@@ -5,8 +5,9 @@
 ### __What to expect__ <span>&#128071;</span>
 * Home
 * About me
-* Certificates
 * Services
+* Certificates
+* Education
 * Projects
 * Contact
 
